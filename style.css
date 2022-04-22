@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+
+
+.flex-container {
+    width: 650px;
+    margin: 0 auto;
+}
+
+.card-header {
+    height: 45px;
+    background-color: aqua;
+}
+
+
+/* .card-header { */
+    /* background-color: #17a2b8; */
+    /* height: 650px; */
+    /* margin-bottom: 70px; */
+/* } */
+.card-body {
+    background-color: azure;
+    padding: 1.5rem;
+}
+
+h2, p {
+    color: red;
+    padding-top: 10px;
+}
+
+.avatar{
+    height: 50px;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+.locotag {
+    height: 15px;
+}
+
+.geari {
+    height: 15px;
+}
